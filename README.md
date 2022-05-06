@@ -28,7 +28,7 @@
 <h3 align="center"> 🍒 Contacts 🍒 </h3>
 <p align="center">
   <a href="https://www.instagram.com/1.hye/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-  <a href="mailto:zerochae@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+  <a href="mailto:whcho97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@dnjsp" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hotoron"/></a>&nbsp
   <a href="https://dnjsp.notion.site/de7d0581eb5b49a1bfe278e14ba18d8a" target="_blank"><img src="https://img.shields.io/badge/About Me-8CA1AF?style=social&logo=Read the Docs"/></a>
 </p>
