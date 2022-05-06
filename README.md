@@ -32,6 +32,6 @@
   <a href="https://velog.io/@dnjsp" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hotoron"/></a>&nbsp
   <a href="https://dnjsp.notion.site/de7d0581eb5b49a1bfe278e14ba18d8a" target="_blank"><img src="https://img.shields.io/badge/About Me-8CA1AF?style=social&logo=Read the Docs"/></a>
 </p>
-
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=FEE5EB&height=170&section=footer)
